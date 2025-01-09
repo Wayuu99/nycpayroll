@@ -1,0 +1,9 @@
+{
+	"name": "bcktdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1bb48862-d1f1-4876-b9cd-19bff6a5b515",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
